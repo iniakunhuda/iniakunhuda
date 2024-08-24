@@ -1,9 +1,11 @@
-Hi, I'm an iOS developer with over 1 year of experience, skilled in SwiftUI, UIKit, and various Apple technologies such as Core Data, CloudKit, MapKit, and MVVM. I have a strong foundation in iOS development and a passion for finding creative solutions to complex problems. As a team player with a dedication to detail, I am committed to delivering high-quality mobile apps that make a positive impact in the world. I'm a graduate of the Apple Developer Academy 2022 @ Ciputra.
+Experienced Mobile Developer skilled in Flutter and SwiftUI, adept at crafting innovative solutions for diverse app functionalities. Currently excelling as a Flutter Developer at PT. Citilink Indonesia, where I lead the development of mission-critical apps for airport operations. With a background spanning from building marketplace PWAs to internships at Apple, I bring a versatile skill set and a proven ability to deliver exceptional mobile experiences. Passionate about leveraging the latest technologies and design patterns, I thrive in collaborative environments, driving projects from concept to completion with precision and creativity.
 
-Technical Experience: 
-- Mobile: Flutter, SwiftUI, UIKit, CloudKit, CoreData
-- Web: Vue.js, Nuxt.js, Laravel, Go
-- Others: Docker, Git, MySql, MongoDB, Redis
+**Technical Experience:**
+
+Mobile: Flutter (Riverpod, TDD, Firebase, Azure), SwiftUI (UIKit, CloudKit, CoreData)
+Web: Laravel, Vue.js, Nuxt.js, NodeJS, Go
+Others: Docker, Git, MySQL, MongoDB, PostgreSQL
+Collaboration: Github/Gitlab, Jira, Notion
 
 (How to reach me) 
 collaboration or anything else: 
