@@ -1,11 +1,10 @@
-Experienced Mobile Developer skilled in Flutter and SwiftUI, adept at crafting innovative solutions for diverse app functionalities. Currently excelling as a Flutter Developer at PT. Citilink Indonesia, where I lead the development of mission-critical apps for airport operations. With a background spanning from building marketplace PWAs to internships at Apple, I bring a versatile skill set and a proven ability to deliver exceptional mobile experiences. Passionate about leveraging the latest technologies and design patterns, I thrive in collaborative environments, driving projects from concept to completion with precision and creativity.
+Huda is a Fullstack Developer with four year of professional experience specializing in web development using modern technologies (VueJS, Golang, Laravel, NodeJS), mobile development (Flutter & iOS), and Agile Development. Proven track record in building super-apps for company delivery high quality code and many web projects for startup. Adept at collaborating with cross-functional teams to implement best practice to code and optimize web application performance.
 
 **Technical Experience:**
 
-Mobile: Flutter (Riverpod, TDD, Firebase, Azure), SwiftUI (UIKit, CloudKit, CoreData)
-Web: Laravel, Vue.js, Nuxt.js, NodeJS, Go
-Others: Docker, Git, MySQL, MongoDB, PostgreSQL
-Collaboration: Github/Gitlab, Jira, Notion
+- Mobile: Flutter (Riverpod, TDD, Firebase, Azure), SwiftUI (UIKit, CloudKit, CoreData)
+- Web: Laravel, Vue.js, Nuxt.js, NodeJS, Go
+- Tools & Database: Docker, Git, MySQL, MongoDB, PostgreSQL, SQLite, AWS, GCP, Github/Gitlab, Jira, Notion
 
 (How to reach me) 
 collaboration or anything else: 
