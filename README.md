@@ -11,7 +11,7 @@ collaboration or anything else:
 - <a href="https://s.id/porto-huda">Portofolio</a>
 - <a href="https://iniakunhuda.com">Website</a>
 - <a href="https://www.linkedin.com/in/iniakunhuda/">Linkedin</a>
-- <a href="mailto:iniakunhuda@gmail.com">Email</a>  
+- <a href="mailto:inbox.miftahulhuda@gmail.com">Email</a>  
 
 
 
