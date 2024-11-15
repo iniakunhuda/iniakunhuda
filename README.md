@@ -9,6 +9,7 @@ Huda is a Fullstack Developer with four year of professional experience speciali
 (How to reach me) 
 collaboration or anything else: 
 - <a href="https://iniakunhuda.com">Website</a>
+- <a href="http://medium.com/@iniakunhuda">Medium</a>
 - <a href="mailto:inbox.miftahulhuda@gmail.com">Email</a>  
 
 
