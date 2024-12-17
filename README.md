@@ -6,8 +6,7 @@ Huda is a Fullstack Developer with four year of professional experience speciali
 - Mobile: Flutter (Riverpod, TDD, Firebase), SwiftUI (UIKit, CloudKit, CoreData)
 - Tools & Database: Git, MySQL, MongoDB, PostgreSQL, SQLite, AWS, GCP, Github/Gitlab, Docker, Jira, Notion
 
-(How to reach me) 
-collaboration or anything else: 
+How to reach me : 
 - <a href="https://iniakunhuda.com">Website</a>
 - <a href="http://medium.com/@iniakunhuda">Medium</a>
 - <a href="mailto:inbox.miftahulhuda@gmail.com">Email</a>  
