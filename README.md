@@ -1,4 +1,4 @@
-Huda is a Fullstack Developer with four year of professional experience specializing in web development using modern technologies (VueJS, Golang, Laravel, NodeJS), mobile development (Flutter & iOS), and Agile Development. Proven track record in building super-apps for company delivery high quality code and many web projects for startup. Adept at collaborating with cross-functional teams to implement best practice to code and optimize web application performance.
+Huda is a Fullstack Developer with 4 year of professional experience specializing in web development using modern technologies (VueJS, Golang, Laravel, NodeJS), mobile development (Flutter & iOS), and Agile Development. Proven track record in building super-apps for company delivery high quality code and many web projects for startup. Adept at collaborating with cross-functional teams to implement best practice to code and optimize web application performance.
 
 **Technical Experience:**
 
