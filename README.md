@@ -3,7 +3,7 @@ Huda is a Fullstack Developer with 4 year of professional experience specializin
 **Technical Experience:**
 
 - Web: Laravel, Go, Vue.js, Nuxt.js, NodeJS
-- Mobile: Flutter (Riverpod, BLoC, TDD, FlutterFlow), SwiftUI
+- Mobile: Flutter (Riverpod, BLoC, TDD, FlutterFlow, Firebase), SwiftUI
 - Tools & Database: Git, MySQL, PostgreSQL, MongoDB, SQLite, AWS, GCP, CI/CD, Github/Gitlab, Docker, Jira, Notion
 
 How to reach me : 
