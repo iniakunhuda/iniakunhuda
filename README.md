@@ -1,4 +1,4 @@
-Huda is a Fullstack Developer with 4 year of professional experience specializing in web development using modern technologies (VueJS, Golang, Laravel, NodeJS), mobile development (Flutter), and Project Management. Proven track record in building super-apps for company delivery high quality code and many web projects. Adept at collaborating with cross-functional teams to implement best practice to code and optimize web application performance.
+Hey there 👋, my name is Miftahul Huda and I am a fullstack developer. I have experience contributing and leading multiple projects such as E-grocery App, Marketplace, Agency, and Super Apps for internal team. I find satisfaction developing digital products that have good performace and have a nice user experience. Born and raised in 🇮🇩 Surabaya, Indonesia. Received my bachelor’s degree on Informatics at Trunojoyo Madura University. Currently working as a mobile developer, and organized GDG Surabaya & Surabaya Dev.
 
 **Technical Experience:**
 
