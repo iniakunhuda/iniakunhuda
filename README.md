@@ -5,7 +5,7 @@ Hey there 👋, my name is Miftahul Huda and I am a fullstack developer. I have 
 
 - Web: Laravel, Go, Vue.js, Nuxt.js, NodeJS
 - Mobile: Flutter (Riverpod, BLoC, TDD, FlutterFlow, Firebase), SwiftUI
-- Database & Tools: Git, MySQL, PostgreSQL, MongoDB, SQLite, AWS, GCP, CI/CD, Docker, VPS, Jira, Notion, Sentry, NewRelic
+- Database & Tools: Git, MySQL, PostgreSQL, MongoDB, SQLite, AWS, GCP, CI/CD, Docker, VPS, Jira, Sentry, NewRelic
 
 How to reach me : 
 - <a href="https://iniakunhuda.com">Website</a>
