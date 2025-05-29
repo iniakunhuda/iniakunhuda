@@ -3,7 +3,7 @@ Hey there 👋, my name is Miftahul Huda and I am a full-stack web & flutter dev
 
 **Technical Experience:**
 
-- Web: Laravel, Go, Vue.js, Nuxt.js, NodeJS
+- Web: Laravel, Go, NodeJS, Vue.js, Nuxt.js
 - Mobile: Flutter (Riverpod, BLoC, FlutterFlow, Firebase), SwiftUI
 - Database & Tools: Git, MySQL, PostgreSQL, MongoDB, SQLite, AWS, GCP, CI/CD, Docker, VPS, Jira, Sentry, NewRelic
 
