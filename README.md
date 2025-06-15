@@ -12,9 +12,6 @@ How to reach me :
 - <a href="http://medium.com/@iniakunhuda">Medium</a>
 - <a href="mailto:inbox.miftahulhuda@gmail.com">Email</a>  
 
-I'm also open for Tech Talk / Conference (Backend, Flutter, Career)
-
-
 
 ## Stats
 
