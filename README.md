@@ -4,7 +4,7 @@ Hey there 👋, my name is Miftahul Huda and I am a backend developer with 5+ ye
 **Technical Experience:**
 
 - Web: Laravel, Go, NodeJS, Vue.js, Nuxt.js
-- Mobile: Flutter (Riverpod, BLoC, FlutterFlow, Firebase), SwiftUI
+- Mobile: Flutter (Riverpod, FlutterFlow, Firebase), SwiftUI
 - Database & Tools: Git, MySQL, PostgreSQL, MongoDB, SQLite, AWS, GCP, CI/CD, Docker, VPS, Jira, Sentry, NewRelic
 
 How to reach me : 
