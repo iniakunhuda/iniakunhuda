@@ -8,7 +8,7 @@ Hey there 👋, my name is Miftahul Huda and I am a backend developer with 5+ ye
 - Database & Tools: Git, PostgreSQL, MySQL, MongoDB, SQLite, AWS, GCP, CI/CD, Docker, VPS, Jira, NewRelic, n8n
 
 How to reach me : 
-- <a href="https://iniakunhuda.com">Website</a>
+- <a href="https://iniakunhuda.com">Personal Website</a>
 - <a href="http://medium.com/@iniakunhuda">Medium</a>
 - <a href="mailto:inbox.miftahulhuda@gmail.com">Email</a>  
 
