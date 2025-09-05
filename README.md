@@ -1,4 +1,4 @@
-Hey there 👋, my name is Miftahul Huda and I am a backend developer with 5+ years experience. I have experience contributing and leading multiple projects such as E-grocery App, Marketplace, Agency, and Super Apps for internal team. I find satisfaction developing digital products that have good performace and a great user experience. Live in Surabaya, Indonesia 🇮🇩. Active contribution and sharing in Surabaya tech community in SurabayaDev and GDG Surabaya.
+Hey there 👋, my name is Miftahul Huda and I am a backend developer with 5+ years experience. I have experience contributing and leading multiple projects such as E-grocery App, Marketplace, Agency, and Super Apps for internal team. I find satisfaction developing digital products that have good performace and a great user experience. Live in Surabaya, Indonesia 🇮🇩. Active contribution and sharing in Surabaya tech community in SurabayaDev & GDG Surabaya.
 
 
 **Technical Experience:**
