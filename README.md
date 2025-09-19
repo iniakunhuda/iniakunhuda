@@ -1,27 +1,24 @@
-Hey there 👋, my name is Miftahul Huda and I am a backend developer with 5 years experience. I have experience contributing and leading multiple projects such as E-grocery App, Marketplace, Agency, and Super Apps for internal team. I find satisfaction developing digital products that have good performace and a great user experience. Live in Surabaya, Indonesia 🇮🇩. Active contribution and sharing in Surabaya tech community in SurabayaDev & GDG Surabaya.
+- 👋 Hi, I'm @iniakunhuda (or simply Huda)
+- 👀 I'm interested in backend, distributed systems, and infrastructure
+- 🌱 I'm currently learning system design and active sharing on GDG Surabaya & SurabayaDev
+- 💞️ I'm looking to collaborate on open-source project
+- 📫 How to reach me // [website](https://iniakunhuda.com) // [medium](http://medium.com/@iniakunhuda) // [email](mailto:inbox.miftahulhuda@gmail.com)
 
+<code><img width="32" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"/></code>
+<code><img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"/></code>
+<code><img width="32" src="https://camo.githubusercontent.com/f9e0c6f8571a04d30382d14f47fc110badd1a3f136b530902ef28995ae4bd50a/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67"/></code>
+<code><img width="32" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"/></code>
+<code><img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/></code>  
 
-**Technical Experience:**
-
-- Web: Laravel, Go, NodeJS, Vue.js, Python, React
-- Mobile: Flutter (Riverpod, BLoC, FlutterFlow, Firebase), SwiftUI
-- Database & Tools: Git, PostgreSQL, MySQL, MongoDB, SQLite, AWS, GCP, CI/CD, Docker, VPS, Jira, NewRelic, n8n
-
-How to reach me : 
-- <a href="https://iniakunhuda.com">Personal Website</a>
-- <a href="http://medium.com/@iniakunhuda">Medium</a>
-- <a href="mailto:inbox.miftahulhuda@gmail.com">Email</a>  
-
-
-## Stats
 
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 <img src="https://github-readme-stats.vercel.app/api?username=iniakunhuda">
 
 
+<!--
 ## Top Lang
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniakunhuda&langs_count=8&layout=compact&hide_border=true&hide=css,html">
-
+-->
 
 
 <!--
