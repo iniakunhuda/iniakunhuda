@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @iniakunhuda (or simply Huda)
 - 👀 I'm interested in backend, distributed systems, and infrastructure
-- 🌱 I'm currently learning system design and active sharing on tech communities
+- 🌱 I'm currently learning system design and active sharing on Surabaya tech communities
 - 💞️ I'm looking to collaborate on open-source project with go
 - 📫 How to reach me // [website](https://iniakunhuda.com) // [medium](http://medium.com/@iniakunhuda) // [email](mailto:inbox.miftahulhuda@gmail.com)
 
