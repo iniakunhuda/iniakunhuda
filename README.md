@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @iniakunhuda (or simply Huda)
+- 👋 Hi, I'm @iniakunhuda (or Huda)
 - 👀 I'm interested in backend, distributed systems, and infrastructure
 - 🌱 I'm currently learning system design and active on Surabaya tech communities
 - 💞️ I'm looking to collaborate on open-source project with golang
