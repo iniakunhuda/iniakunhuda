@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @iniakunhuda (or Huda)
 - 👀 I'm interested in backend, distributed systems, and infrastructure
 - 🌱 I'm currently learning system design and active on Surabaya tech communities
-- 💞️ I'm looking to collaborate on open-source project with golang
+- 💞️ I'm looking to collaborate in open-source project with golang
 - 📫 How to reach me // [website](https://iniakunhuda.com) // [medium](http://medium.com/@iniakunhuda) // [email](mailto:inbox.miftahulhuda@gmail.com)
 
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"/></code>
