@@ -3,6 +3,7 @@
 - 🌱 I'm currently learning system design and active on Surabaya tech communities
 - 💞️ I'm looking to collaborate in open-source project with golang
 - 📫 How to reach me // [website](https://iniakunhuda.com) // [medium](http://medium.com/@iniakunhuda) // [email](mailto:inbox.miftahulhuda@gmail.com)
+- 🌥️ Building [desainsistem.com](desainsistem.com)
 
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"/></code>
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"/></code>
@@ -11,8 +12,8 @@
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/></code>  
 
 
-<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
-<img src="https://github-readme-stats.vercel.app/api?username=iniakunhuda">
+<!-- <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=iniakunhuda"> -->
 
 
 <!--
