@@ -11,11 +11,6 @@
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"/></code>
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/></code>  
 
-
-<!-- <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
-<img src="https://github-readme-stats.vercel.app/api?username=iniakunhuda"> -->
-
-
 <!--
 ## Top Lang
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniakunhuda&langs_count=8&layout=compact&hide_border=true&hide=css,html">
