@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @iniakunhuda (or Huda)
 - 👀 I'm interested in backend, distributed systems & infrastructure
-- 🌱 I'm currently learning aiagent & system design
+- 🌱 I'm currently learning cloud & AI Agent
 - 💞️ I'm looking to collaborate in open-source project with laravel & golang
 - 📫 How to reach me // [website](https://iniakunhuda.com) // [medium](http://medium.com/@iniakunhuda) // [email](mailto:inbox.miftahulhuda@gmail.com)
 - 🌥️ Building [desainsistem.com](https://desainsistem.com)
